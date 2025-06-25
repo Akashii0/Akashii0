@@ -2,13 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=%2302A700&size=28&lines=Hi...+This+is+Akashi+)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="300" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="400" align="right">
 
 
 - 🌱 I’m currently learning **new stuffs**
 - 💞️ I’m looking to collaborate on Backend Projects
 - 👨‍💻 All of my projects are available at [github.com/akashii0](github.com/akashii0)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know The first programmer was a woman.
 - 📫 How to reach me **abdulkid151@gmail.com**
 
