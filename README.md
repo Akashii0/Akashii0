@@ -6,9 +6,13 @@
 
 
 - 🌱 I’m currently learning **new stuffs**
+
 - 💞️ I’m looking to collaborate on Backend Projects
+
 - 👨‍💻 All of my projects are available at [github.com/akashii0](github.com/akashii0)
+
 - ⚡ Fun fact: Did you know The first programmer was a woman.
+
 - 📫 How to reach me **abdulkid151@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
