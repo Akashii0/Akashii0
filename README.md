@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=%2302A700&size=28&lines=Hi...+This+is+Akashi+)](https://git.io/typing-svg)
 - 👋 Hi, I’m @Akashii0
 - 👀 I’m interested in Web Development, AI/ML
 - 🌱 I’m currently learning Backend Development
